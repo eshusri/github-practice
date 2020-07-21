@@ -1,0 +1,23 @@
+What is the difference between Angular JS and Angular?
+How Angular is better than jQuery?
+What is the difference bewtween Angular and any other modern frameworks like Vue or libraries React?
+What are components and how you devide a spa into components?
+How Components can communicate with each other?
+What are modules?
+If an API is devided into modules how they can communicate between modules?
+What is templating?
+How do you use Form modules?
+What is lazyloading? How many ways lazy loading can be done?
+Why and how do you use RxJS stores?
+How do you customize observable methods?
+Do you know anything about GraphQL
+Best practices of observables
+How do you use component lifecycle?
+How can you establish parent child component communication?
+What is conditional binding?
+What is Element Reference API?
+How do you use Async pipe?
+Directives and purpose and what is structural and functional directives?
+How do you upgrade from one version of Angular to another version of angular and what can be the complications?
+How do you upgrade from one module to another module?
+What are lift and shif components?
