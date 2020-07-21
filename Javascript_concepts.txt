@@ -1,5 +1,5 @@
 What is Java script?
-Java script is client side scripting language. Which is very powerful in moderen development. There are so many modern frameworks and libraries are available using Java script as base. Most popular modern frameworks are VueJs, Angular and React library.
+ANS: Java script is client side scripting language. Which is very powerful in moderen development. There are so many modern frameworks and libraries are available using Java script as base. Most popular modern frameworks are VueJs, Angular and React library.
 What is the difference between ECMA and Java script?
 What is the difference between Type script and Java script?
 Java script capabilities using AJAX and COMET?
@@ -13,3 +13,4 @@ What are the design patterns?
 What is functional programming and reactive programming?
 What is interface in Typescirpt and in Java? How they are different?
 What is object oriented javascript?
+What is this operator and How differenty it can be used in Javascript?
